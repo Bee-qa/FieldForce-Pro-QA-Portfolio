@@ -1,4 +1,4 @@
-# FieldForce-Pro-QA-Protfolio
+# FieldForce-Pro-QA-Portfolio
 
 Welcome to my QA Portfolio.
 
