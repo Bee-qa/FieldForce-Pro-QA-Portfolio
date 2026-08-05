@@ -1,14 +1,38 @@
 # FieldForce-Pro-QA-Protfolio
-FieldForce-Pro-QA-Portfolio
-│
-├── 01_Requirements
-├── 02_Test_Planning
-├── 03_Test_Design
-├── 04_Test_Execution
-├── 05_Defect_Management
-├── 06_SQL
-├── 07_API
-├── 08_Automation
-├── 09_Test_Reports
-├── Images
-└── README.md
+
+Welcome to my QA Portfolio.
+
+This repository demonstrates my software testing skills through a fictional Field Service Management application called **FieldForce Pro**.
+
+## Skills Demonstrated
+
+- Manual Testing
+- Test Planning
+- Test Case Design
+- Bug Reporting
+- Regression Testing
+- Smoke Testing
+- API Testing (Postman)
+- SQL Validation
+- Selenium WebDriver with C# (In Progress)
+
+## Project Status
+
+🚧 Currently building the project from scratch.
+
+This portfolio will include:
+
+- Business Requirements
+- Functional Requirements
+- User Stories
+- Acceptance Criteria
+- Test Plan
+- Test Scenarios
+- Test Cases
+- Defect Reports
+- SQL Validation
+- API Testing
+- Selenium Automation
+- Test Summary Reports
+
+Thank you for visiting my portfolio.
