@@ -24,6 +24,18 @@
 
 ### 4.8 Notifications
 
+## 1. Document Information
+
+| Field | Details |
+|--------|---------|
+| Project Name | FieldForce Pro |
+| Client | Australian BG Engineering Pty Ltd (ABG) |
+| Document | Functional Requirements Specification |
+| Version | 1.0 |
+| Author | Bhargavi Gorisetty |
+| Status | Draft |
+
+
 ## 3. User Roles
 The FieldForce Pro system supports the following user roles.
 
@@ -36,15 +48,6 @@ The FieldForce Pro system supports the following user roles.
 | Payroll Officer | Reviews attendance records and processes employee payroll. |
 | Operations Manager | Monitors dashboards, reports, job status and overall business performance. |
 
-## 1. Document Information
 
-| Field | Details |
-|--------|---------|
-| Project Name | FieldForce Pro |
-| Client | Australian BG Engineering Pty Ltd (ABG) |
-| Document | Functional Requirements Specification |
-| Version | 1.0 |
-| Author | Bhargavi Gorisetty |
-| Status | Draft |
 
 
