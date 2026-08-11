@@ -22,17 +22,26 @@ This repository demonstrates my software testing skills through a fictional Fiel
 
 This portfolio will include:
 
-- Business Requirements
-- Functional Requirements
-- User Stories
-- Acceptance Criteria
-- Test Plan
-- Test Scenarios
-- Test Cases
-- Defect Reports
-- SQL Validation
-- API Testing
-- Selenium Automation
-- Test Summary Reports
+FieldForce-Pro-QA-Portfolio
+│
+├── README.md
+│
+├── 00_Project_Overview
+│
+├── 01_Requirements/BRD/FRS
+│
+├── 02_Requirements_Review
+│
+├── 03_User_Stories
+│
+├── 04_Test_Planning
+│
+├── 05_Test_Design
+│
+├── 06_Test_Execution
+│
+├── 07_Traceability
+│
+└── Images
 
 Thank you for visiting my portfolio.
