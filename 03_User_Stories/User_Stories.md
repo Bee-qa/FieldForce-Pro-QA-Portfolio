@@ -1,37 +1,27 @@
 # User Stories
 
 
-## US-001 – Create Customer
+## US-001 – User Authentication
 
 ### User Story
 
-As an Office Staff member,
-I want to create a new customer,
-so that projects can be managed under that customer.
+As an authorised user,
+I want to securely log in to FieldForce Pro,
+so that I can access functionality appropriate to my role.
 
-Epic: Authentication
-
-Sprint: Sprint 1
-
-Priority: High
-
-Story Points: 5
-
-Status: Done
-
-Business Value: Allows authorised users to securely access the application.
+**Priority - High**
 
 ### Acceptance Criteria
 
-- Customer Name is mandatory.
-- Customer Code must be unique.
-- Contact details can be saved.
-- Customer is available in the Customer List after saving.
-- Success message is displayed after creation.
+- Active users can log in with valid credentials.
+- Invalid credentials are rejected.
+- Mandatory username and password validation is applied.
+- Inactive users cannot access the application.
+- Users can securely log out.
 
 ---------------------------------------------------------------
 
-## US-002 – Create Project
+## US-002 – Manage Customer
 
 ### User Story
 
@@ -50,7 +40,7 @@ so that engineering work can be organised.
 
 -----------------------------------------------------------------
 
-# US-003 – Create Project
+## US-003 – Manage Project
 
 ### User Story
 

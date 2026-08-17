@@ -8,7 +8,7 @@ The application supports the management of customers, projects, jobs, field engi
 
 This repository demonstrates an end-to-end manual software testing approach, covering requirement analysis, test planning, test design, test execution, defect management, and requirements traceability.
 
----
+----------------------------------------------------------------
 
 ## QA Portfolio Objectives
 
