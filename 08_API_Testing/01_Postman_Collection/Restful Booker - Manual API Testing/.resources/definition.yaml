@@ -1,0 +1,6 @@
+$kind: collection
+name: Restful Booker - Manual API Testing
+variables:
+  baseUrl: ""
+  bookingId: ""
+  token: ""

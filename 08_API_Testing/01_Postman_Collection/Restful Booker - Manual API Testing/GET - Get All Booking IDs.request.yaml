@@ -1,0 +1,15 @@
+$kind: http-request
+name: GET - Get All Booking IDs
+description: ""
+url: "{{baseUrl}}/booking?firstname=Susan&lastname=ilon"
+method: GET
+queryParams:
+  - key: firstname
+    value: Susan
+    disabled: false
+    description: ""
+  - key: lastname
+    value: ilon
+    disabled: false
+    description: ""
+order: 2863671827811219

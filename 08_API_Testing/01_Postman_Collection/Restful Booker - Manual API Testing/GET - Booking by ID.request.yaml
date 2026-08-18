@@ -1,0 +1,6 @@
+$kind: http-request
+name: GET - Booking by ID
+description: ""
+url: "{{baseUrl}}/booking/2"
+method: GET
+order: 2664755399916971

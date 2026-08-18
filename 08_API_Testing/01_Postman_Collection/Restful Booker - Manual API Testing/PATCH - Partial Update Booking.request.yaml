@@ -1,0 +1,17 @@
+$kind: http-request
+name: PATCH - Partial Update Booking
+url: |
+  {{baseUrl}}/booking/{{bookingId}}
+method: PATCH
+headers:
+  Cookie: token={{token}}
+body:
+  type: json
+  content: "{\r
+
+    \    \"firstname\": \"Bee\",\r
+
+    \    \"totalprice\": 750\r
+
+    }"
+order: 4496296648952521

@@ -1,0 +1,28 @@
+$kind: http-request
+name: POST - Create Booking
+url: "{{baseUrl}}/booking"
+method: POST
+body:
+  type: json
+  content: "{\r
+
+    \  \"firstname\": \"Bhargavi\",\r
+
+    \  \"lastname\": \"Updated\",\r
+
+    \  \"totalprice\": 650,\r
+
+    \  \"depositpaid\": true,\r
+
+    \  \"bookingdates\": {\r
+
+    \    \"checkin\": \"2026-09-02\",\r
+
+    \    \"checkout\": \"2026-09-07\"\r
+
+    \  },\r
+
+    \  \"additionalneeds\": \"Breakfast and Dinner\"\r
+
+    }"
+order: 4321702020066111
