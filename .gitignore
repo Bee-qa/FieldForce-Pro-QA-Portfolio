@@ -1,0 +1,10 @@
+# .NET build files
+bin/
+obj/
+
+# Visual Studio / VS Code
+.vs/
+.vscode/
+
+# Test results
+TestResults/
